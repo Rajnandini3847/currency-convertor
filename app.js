@@ -50,7 +50,7 @@ const updateExchange = async () => {
         }
     }
     catch(err) {
-        alert("Opps! there's some issues", err);
+        alert("Opps! there's some issues" +err);
     };
     
 }
