@@ -1,4 +1,4 @@
-const BASE_URL = "https://api.currencylayer.com/convert?access_key=3f92c6953a3d17c5e8f96e3acb2f99a6";
+const BASE_URL = "https://api.currencylayer.com/convert?access_key=YOUR_API_KEY";
 
  
  const dropdowns = document.querySelectorAll(".dropdown select");
